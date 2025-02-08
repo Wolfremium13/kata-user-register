@@ -2,7 +2,8 @@
 
 ## Description
 
-This is a simple user registration system. As a User I want to register to the platform providing an email and password.
+This is a simple user registration use case. As a User I want to register to the platform providing an email and
+password.
 
 ## Requirements
 
